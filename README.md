@@ -57,7 +57,7 @@ Change base_dir = '/Path/To/IMCgm/' in IMCgm.py
 
 ```shell
 
-python 
+python IMCgm.py
 
 ```
 
