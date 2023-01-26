@@ -1,0 +1,11 @@
+name: IMCgm_env
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8.0=h357f687_5
+  - cobra==0.26.0
+  - pandas==1.5.1
+  - numpy=1.23.5=py38h7042d01_0
