@@ -64,9 +64,8 @@ python
 
 ## Contributors
 
-Ofir Tal ( @Ofir = https://sites.google.com/view/ofir-tal-lab/home ) \
-Maria Berihu ( @Maria = https://www.freilich-lab.com/maria-detailes ) \
-Edoardo Pimbo ( @Edoard = https://ec.linkedin.com/in/eduardo-pimbo-525a8193 ) \
+Gon Carmi ( @Gon = https://www.freilich-lab.com/gon-carmi/ ) \
+Alon Ginatt ( @Gon = https://www.freilich-lab.com/alon-ginat/ ) \
 Shiri Freilich ( @Shiri = https://www.freilich-lab.com/ ) 
 
 ## References
